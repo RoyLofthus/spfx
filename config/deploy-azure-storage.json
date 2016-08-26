@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "stiglyspfxsamples",
+  "container": "helloworld-webpart",
+  "accessKey": "R2v8hofzabEzj9d/DKAHZNL09lOZ8V3g6H5aoYJKstfHboINe9WPUIfp7b8x5OqyubEMxvrWBfy8sW/eymXpog=="
+}
